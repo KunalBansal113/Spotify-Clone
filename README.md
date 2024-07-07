@@ -1,0 +1,1 @@
+Spotify Clone (HTML & CSS): A front-end challenge replicating the Spotify interface using HTML for structure and CSS for styling. This project showcases my skills in building web page layouts and applying visual design.
